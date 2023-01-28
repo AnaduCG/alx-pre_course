@@ -1,7 +1,2 @@
-Command lines used
-git add
-git chaeckout -b [branchname]
-git commit -m "message"
-git push
-git checkout [branch name]
-git status
+touch up_to_date
+vim up_to_date
